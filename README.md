@@ -9,8 +9,7 @@
 ##  * Vitor Stachetti | RA: 157530 | Email: v157530@g.unicamp.br | [GitHub] (https://github.com/v157530);
 
 ## **Motivação**
-## O trabalho tem a intenção de alertar os usuários para o índice de furto de veículos no Brasil, através de uma interface gráfica de fácil visualização em um sistema prático e funcional. Além disso queremos ver se existe uma relação entre frota de veicúlos e registro de ocorrências por estado, para saber qual estado Brasileiro é o mais perigoso. 
-Ramificando o nosso trabalho, queremos alertar o cidadão para as questões ambientais e o impacto da quantidade desproporcional de carros por habitantes ao meio ambiente.
+## O trabalho tem a intenção de alertar os usuários para o índice de furto de veículos no Brasil, através de uma interface gráfica de fácil visualização em um sistema prático e funcional. Além disso queremos ver se existe uma relação entre frota de veicúlos e registro de ocorrências por estado, para saber qual estado Brasileiro é o mais perigoso. Ramificando o nosso trabalho, queremos alertar o cidadão para as questões ambientais e o impacto da quantidade desproporcional de carros por habitantes ao meio ambiente.
 
 ## **Fonte(s) de dados**
 ## [Sinesp] (https://www.sinesp.gov.br/estatisticas-publicas)
@@ -33,4 +32,4 @@ Ramificando o nosso trabalho, queremos alertar o cidadão para as questões ambi
 
 ## **Pelo menos um exemplo de consulta que pode ser realizada e como seria a apresentação gráfica do resultado.**
 ## [Gráfico 1](http://imagizer.imageshack.us/a/img921/6268/ydrC0s.png)
-## [Gráfico 2](http://imageshack.com/a/img921/6374/Fu4G9v.png)
+## [Gráfico 2](http://imageshack.com/a/img924/15/feSjzI.jpg)
